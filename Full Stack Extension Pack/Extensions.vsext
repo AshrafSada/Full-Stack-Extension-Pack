@@ -1,0 +1,50 @@
+{
+    "description": "Read about creating extension packs at https://aka.ms/vsextpack",
+    "version": "1.0.0.0",
+    "extensions": [
+        {
+            "vsixId": "41858b2d-ff0b-4a43-80b0-f1b2d6084935",
+            "name": "Align Assignments"
+        },
+        {
+            "vsixId": "42374550-426a-400e-96f9-237682e8dea6",
+            "name": "Copy As Html"
+        },
+        {
+            "vsixId": "509fc133-d9a6-4cf7-a558-e00fd11e0f9f",
+            "name": "Web Essentials 2019"
+        },
+        {
+            "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748",
+            "name": "Visual Studio Spell Checker (VS2017 and Later)"
+        },
+        {
+            "vsixId": "4c82e17d-927e-42d2-8460-b473ac7df316",
+            "name": "CodeMaid"
+        },
+        {
+            "vsixId": "SolutionErrorVisualizer.a392f96b-6b33-4b53-b4bb-3376a05f986c",
+            "name": "Solution Error Visualizer"
+        },
+        {
+            "vsixId": "f5028141-9dd0-4ac4-ae6d-0481ae9a940d",
+            "name": "Clear MEF Component Cache"
+        },
+        {
+            "vsixId": "ea5c68d6-cdae-4e79-bd46-2a39e95bb256",
+            "name": "File Differ"
+        },
+        {
+            "vsixId": "f4c4712c-ceae-4803-8e52-0e2049d5de9f",
+            "name": "EF Core Power Tools"
+        },
+        {
+            "vsixId": "a9120dbe-164a-4891-842f-fb7829273838",
+            "name": "ILSpy"
+        },
+        {
+            "vsixId": "Prism.TemplatePack.138e3411-ac97-4c11-8016-c27a831cba2e",
+            "name": "Prism Template Pack"
+        }
+    ]
+}
