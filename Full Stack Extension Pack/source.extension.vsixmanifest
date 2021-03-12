@@ -4,6 +4,8 @@
         <Identity Id="Full_Stack_Extension_Pack.e6718cb5-8b5f-47c6-9666-e359b764f624" Version="1.0" Language="en-US" Publisher="Ashraf Sada" />
         <DisplayName>Full_Stack_Extension_Pack</DisplayName>
         <Description xml:space="preserve">Full Stack Extension Pack is a collection of useful visual studio extensions for full stack developer</Description>
+        <MoreInfo>https://github.com/ashrafsada/Full_Stack_Extension_Pack</MoreInfo>
+        <Preview>true</Preview>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
