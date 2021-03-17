@@ -11,10 +11,6 @@
             "name": "Copy As Html"
         },
         {
-            "vsixId": "509fc133-d9a6-4cf7-a558-e00fd11e0f9f",
-            "name": "Web Essentials 2019"
-        },
-        {
             "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748",
             "name": "Visual Studio Spell Checker (VS2017 and Later)"
         },
@@ -45,10 +41,6 @@
         {
             "vsixId": "ClearRecent.a058d6db-b626-4d1b-8b98-da97e2e63561",
             "name": "Clear Recent"
-        },
-        {
-            "vsixId": "2cb9791f-b46d-4e4a-bead-6c6c8923c801",
-            "name": "Conveyor by Keyoti"
         }
     ]
 }
