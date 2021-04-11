@@ -44,7 +44,19 @@
         },
         {
             "vsixId": "DoubleClickMaximize.050825c2-33a4-4b7d-b3af-bd46bd99a265",
-            "name": "Double-Click Maximize" 
+            "name": "Double-Click Maximize"
+        },
+        {
+            "vsixId": "e1bf5443-bf81-49e6-bc33-004e1f1f7b02",
+            "name": "Material icons generator"
+        },
+        {
+            "vsixId": "IndentRainbow.f05146ed-8025-4668-b7b1-8a74bd22b241",
+            "name": "IndentRainbow"
+        },
+        {
+            "vsixId": "Winterdom.Viasfora.f7a33795-2b40-4125-856c-89b0bd8cd5ab",
+            "name": "Viasfora"
         }
     ]
 }
