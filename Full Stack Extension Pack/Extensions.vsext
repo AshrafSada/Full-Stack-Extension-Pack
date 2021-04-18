@@ -57,6 +57,14 @@
         {
             "vsixId": "Winterdom.Viasfora.f7a33795-2b40-4125-856c-89b0bd8cd5ab",
             "name": "Viasfora"
+        },
+        {
+            "vsixId": "fcc-f339fe606-9d51-4fca-895c-d50375137b62",
+            "name": "Fine Code Coverage"
+        },
+        {
+            "vsixId": "BetterComments.Omar Rwemi.e985519f-8696-40b7-9400-807054b4ec76",
+            "name": "Better Comments"
         }
     ]
 }
