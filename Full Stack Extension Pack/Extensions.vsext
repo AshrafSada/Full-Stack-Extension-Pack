@@ -53,10 +53,6 @@
         {
             "vsixId": "fcc-f339fe606-9d51-4fca-895c-d50375137b62",
             "name": "Fine Code Coverage"
-        },
-        {
-            "vsixId": "82e81c51-04b7-4681-91bb-87b6cf7c516b",
-            "name": ".NET Core Debugging with WSL 2"
         }
 
     ]
