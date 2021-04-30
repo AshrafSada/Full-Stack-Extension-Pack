@@ -1,70 +1,63 @@
 {
-   "description": "Read about creating extension packs at https://aka.ms/vsextpack",
-   "version": "1.0.0.0",
-   "extensions": [
-      {
-         "vsixId": "41858b2d-ff0b-4a43-80b0-f1b2d6084935",
-         "name": "Align Assignments"
-      },
-      {
-         "vsixId": "42374550-426a-400e-96f9-237682e8dea6",
-         "name": "Copy As Html"
-      },
-      {
-         "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748",
-         "name": "Visual Studio Spell Checker (VS2017 and Later)"
-      },
-      {
-         "vsixId": "4c82e17d-927e-42d2-8460-b473ac7df316",
-         "name": "CodeMaid"
-      },
-      {
-         "vsixId": "SolutionErrorVisualizer.a392f96b-6b33-4b53-b4bb-3376a05f986c",
-         "name": "Solution Error Visualizer"
-      },
-      {
-         "vsixId": "f5028141-9dd0-4ac4-ae6d-0481ae9a940d",
-         "name": "Clear MEF Component Cache"
-      },
-      {
-         "vsixId": "ea5c68d6-cdae-4e79-bd46-2a39e95bb256",
-         "name": "File Differ"
-      },
-      {
-         "vsixId": "f4c4712c-ceae-4803-8e52-0e2049d5de9f",
-         "name": "EF Core Power Tools"
-      },
-      {
-         "vsixId": "a9120dbe-164a-4891-842f-fb7829273838",
-         "name": "ILSpy"
-      },
-      {
-         "vsixId": "ClearRecent.a058d6db-b626-4d1b-8b98-da97e2e63561",
-         "name": "Clear Recent"
-      },
-      {
-         "vsixId": "DoubleClickMaximize.050825c2-33a4-4b7d-b3af-bd46bd99a265",
-         "name": "Double-Click Maximize"
-      },
-      {
-         "vsixId": "e1bf5443-bf81-49e6-bc33-004e1f1f7b02",
-         "name": "Material icons generator"
-      },
-      {
-         "vsixId": "IndentRainbow.f05146ed-8025-4668-b7b1-8a74bd22b241",
-         "name": "IndentRainbow"
-      },
-      {
-         "vsixId": "Winterdom.Viasfora.f7a33795-2b40-4125-856c-89b0bd8cd5ab",
-         "name": "Viasfora"
-      },
-      {
-         "vsixId": "fcc-f339fe606-9d51-4fca-895c-d50375137b62",
-         "name": "Fine Code Coverage"
-      },
-      {
-         "vsixId": "Menees VS Tools 2019",
-         "name": "Menees VS Tools 2019"
-      }
-   ]
+    "description": "Read about creating extension packs at https://aka.ms/vsextpack",
+    "version": "1.0.0.0",
+    "extensions": [
+        {
+            "vsixId": "41858b2d-ff0b-4a43-80b0-f1b2d6084935",
+            "name": "Align Assignments"
+        },
+        {
+            "vsixId": "42374550-426a-400e-96f9-237682e8dea6",
+            "name": "Copy As Html"
+        },
+        {
+            "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748",
+            "name": "Visual Studio Spell Checker (VS2017 and Later)"
+        },
+        {
+            "vsixId": "4c82e17d-927e-42d2-8460-b473ac7df316",
+            "name": "CodeMaid"
+        },
+        {
+            "vsixId": "SolutionErrorVisualizer.a392f96b-6b33-4b53-b4bb-3376a05f986c",
+            "name": "Solution Error Visualizer"
+        },
+        {
+            "vsixId": "f5028141-9dd0-4ac4-ae6d-0481ae9a940d",
+            "name": "Clear MEF Component Cache"
+        },
+        {
+            "vsixId": "ea5c68d6-cdae-4e79-bd46-2a39e95bb256",
+            "name": "File Differ"
+        },
+        {
+            "vsixId": "f4c4712c-ceae-4803-8e52-0e2049d5de9f",
+            "name": "EF Core Power Tools"
+        },
+        {
+            "vsixId": "a9120dbe-164a-4891-842f-fb7829273838",
+            "name": "ILSpy"
+        },
+        {
+            "vsixId": "ClearRecent.a058d6db-b626-4d1b-8b98-da97e2e63561",
+            "name": "Clear Recent"
+        },
+        {
+            "vsixId": "DoubleClickMaximize.050825c2-33a4-4b7d-b3af-bd46bd99a265",
+            "name": "Double-Click Maximize"
+        },
+        {
+            "vsixId": "IndentRainbow.f05146ed-8025-4668-b7b1-8a74bd22b241",
+            "name": "IndentRainbow"
+        },
+        {
+            "vsixId": "fcc-f339fe606-9d51-4fca-895c-d50375137b62",
+            "name": "Fine Code Coverage"
+        },
+        {
+            "vsixId": "82e81c51-04b7-4681-91bb-87b6cf7c516b",
+            "name": ".NET Core Debugging with WSL 2"
+        }
+
+    ]
 }
