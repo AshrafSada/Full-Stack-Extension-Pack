@@ -3,14 +3,6 @@
     "version": "1.0.0.0",
     "extensions": [
         {
-            "vsixId": "41858b2d-ff0b-4a43-80b0-f1b2d6084935",
-            "name": "Align Assignments"
-        },
-        {
-            "vsixId": "42374550-426a-400e-96f9-237682e8dea6",
-            "name": "Copy As Html"
-        },
-        {
             "vsixId": "43EA967E-0DE2-4136-8E52-C6DCFB5C2748",
             "name": "Visual Studio Spell Checker (VS2017 and Later)"
         },
@@ -43,17 +35,60 @@
             "name": "Clear Recent"
         },
         {
-            "vsixId": "DoubleClickMaximize.050825c2-33a4-4b7d-b3af-bd46bd99a265",
-            "name": "Double-Click Maximize"
-        },
-        {
             "vsixId": "IndentRainbow.f05146ed-8025-4668-b7b1-8a74bd22b241",
             "name": "IndentRainbow"
         },
         {
             "vsixId": "fcc-f339fe606-9d51-4fca-895c-d50375137b62",
             "name": "Fine Code Coverage"
+        },
+        {
+            "vsixId": "97188178-f68c-49a6-9e5e-5fb99661bf09",
+            "name": "SteroidsVS"
+        },
+        {
+            "vsixId": "AsyncFixer.Vsix..edab5fce-e3aa-4fea-9d60-a07bc11d493b",
+            "name": "AsyncFixer for Visual Studio 2019"
+        },
+        {
+            "vsixId": "fe00c281-eed0-4c6e-901b-d8b845c82e35",
+            "name": "Experimental Tools"
+        },
+        {
+            "vsixId": "f4ab1e64-5d35-4f06-bad9-bf414f4b3bbb",
+            "name": "Open Command Line"
+        },
+        {
+            "vsixId": "9ca64947-e9ca-4543-bfb8-6cce9be19fd6",
+            "name": "Markdown Editor"
+        },
+        {
+            "vsixId": "1a4fc182-2715-4040-b982-f76e4c365fbb",
+            "name": "Run Coverlet Report"
+        },
+        {
+            "vsixId": "Winterdom.Viasfora.f7a33795-2b40-4125-856c-89b0bd8cd5ab",
+            "name": "Viasfora"
+        },
+        {
+            "vsixId": "2E78AA18-E864-4FBB-B8C8-6186FC865DB3",
+            "name": "Add New File"
+        },
+        {
+            "vsixId": "a3112f81-e423-4f88-9f2c-e089a309e48e",
+            "name": "Editor Enhancements"
+        },
+        {
+            "vsixId": "3a7b4930-a5fb-46ec-a9b8-9610c8f953b8",
+            "name": "File Icons"
+        },
+        {
+            "vsixId": "148ffa77-d70a-407f-892b-9ee542346862",
+            "name": "Web Compiler"
+        },
+        {
+            "vsixId": "9514d70e-a7b1-4876-847d-b0d2ad0962bf",
+            "name": "ZenCoding"
         }
-
     ]
 }
