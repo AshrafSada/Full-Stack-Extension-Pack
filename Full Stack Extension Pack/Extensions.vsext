@@ -1,5 +1,6 @@
 {
-    "description": "Read about creating extension packs at https://aka.ms/vsextpack",
+    "name": "Full Stack Developer Extension Pack",
+    "description": "Visual Studio 2019 Extensions Collection",
     "version": "1.0.0.0",
     "extensions": [
         {
@@ -45,10 +46,6 @@
         {
             "vsixId": "97188178-f68c-49a6-9e5e-5fb99661bf09",
             "name": "SteroidsVS"
-        },
-        {
-            "vsixId": "AsyncFixer.Vsix..edab5fce-e3aa-4fea-9d60-a07bc11d493b",
-            "name": "AsyncFixer for Visual Studio 2019"
         },
         {
             "vsixId": "fe00c281-eed0-4c6e-901b-d8b845c82e35",
