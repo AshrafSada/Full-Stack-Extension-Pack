@@ -1,8 +1,8 @@
-# Full-Stack-Extension-Pack
+# Full Stack Extension Pack
 
 ## Visual Studio 2019 Extensions Collection
 
-This extension is useful for full stack developers.
+Useful extensions for full stack developers using Visual Studio IDE.
 
 It consists of the following extensions:
 
