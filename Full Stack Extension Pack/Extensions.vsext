@@ -60,14 +60,6 @@
             "name": "Markdown Editor"
         },
         {
-            "vsixId": "1a4fc182-2715-4040-b982-f76e4c365fbb",
-            "name": "Run Coverlet Report"
-        },
-        {
-            "vsixId": "Winterdom.Viasfora.f7a33795-2b40-4125-856c-89b0bd8cd5ab",
-            "name": "Viasfora"
-        },
-        {
             "vsixId": "2E78AA18-E864-4FBB-B8C8-6186FC865DB3",
             "name": "Add New File"
         },
