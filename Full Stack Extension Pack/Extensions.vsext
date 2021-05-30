@@ -78,10 +78,6 @@
         {
             "vsixId": "9514d70e-a7b1-4876-847d-b0d2ad0962bf",
             "name": "ZenCoding"
-        },
-        {
-            "vsixId": "ParallelBuildsMonitor.25D5079B-D885-4D26-9472-99594F1A2EB9",
-            "name": "Parallel Builds Monitor"
         }
     ]
 }
