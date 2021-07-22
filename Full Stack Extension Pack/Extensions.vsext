@@ -78,10 +78,6 @@
         {
             "vsixId": "9514d70e-a7b1-4876-847d-b0d2ad0962bf",
             "name": "ZenCoding"
-        },
-        {
-            "vsixId": "blazor_extension.348090da-88b7-47c8-a966-44dad2825490",
-            "name":"Blazor Component Extension"
         }
     ]
 }
